@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">MusicVideoPlayer</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="favouriteSong">
+        <item >Comfortably Numb</item>
+        <item >Kashmir</item>
+        <item >November Rain</item>
+        <item >One</item>
+        <item >Scientist</item>
+        <item >Smells Like Teen Spirit</item>
+        <item >Hello</item>
+        <item >Highway To Hell</item>
+        <item >Bohemian Rhapsody</item>
+        <item >Hotel California</item>
+    </string-array>
+    <string-array name="favouriteArtist">
+        <item >Pink Floyd</item>
+        <item >Led Zeppelin</item>
+        <item >Guns N Roses</item>
+        <item >Metallica</item>
+        <item >Coldplay</item>
+        <item >Nirvana</item>
+        <item >Adele</item>
+        <item >AC/DC</item>
+        <item >Queen</item>
+        <item >Eagles</item>
+    </string-array>
+    <string name="PinkFloyd_URI">https://www.youtube.com/watch?v=_cPxKq-gMDo</string>
+    <string name="LedZeppelin_URI">https://www.youtube.com/watch?v=PD-MdiUm1_Y</string>
+    <string name="GunsNRoses_URI">https://www.youtube.com/watch?v=8SbUC-UaAxE</string>
+    <string name="Metallica_URI">https://www.youtube.com/watch?v=M896dCoAdQs</string>
+    <string name="ColdPlay_URI">https://www.youtube.com/watch?v=RB-RcX5DS5A</string>
+    <string name="Nirvana_URI">https://www.youtube.com/watch?v=hTWKbfoikeg</string>
+    <string name="Adele_URI">https://www.youtube.com/watch?v=YQHsXMglC9A</string>
+    <string name="ACDC_URI">https://www.youtube.com/watch?v=gEPmA3USJdI</string>
+    <string name="Queen_URI">https://www.youtube.com/watch?v=fJ9rUzIMcZQ</string>
+    <string name="Eagles_URI">https://www.youtube.com/watch?v=lrfhf1Gv4Tw</string>
+
+
+    <string name="PinkFloyd_song_URI">https://en.wikipedia.org/wiki/Comfortably_Numb</string>
+    <string name="LedZeppelin_song_URI" formatted="false">https://en.wikipedia.org/wiki/Kashmir_%28song%29</string>
+    <string name="GunsNRoses_song_URI" formatted="false">https://en.wikipedia.org/wiki/November_Rain</string>
+    <string name="Metallica_song_URI" formatted="false">https://en.wikipedia.org/wiki/One_%28Metallica_song%29</string>
+    <string name="ColdPlay_song_URI" formatted="false">https://en.wikipedia.org/wiki/The_Scientist_%28song%29</string>
+    <string name="Nirvana_song_URI" formatted="false">https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit</string>
+    <string name="Adele_song_URI" formatted="false">https://en.wikipedia.org/wiki/Hello_%28Adele_song%29</string>
+    <string name="ACDC_song_URI" formatted="false">https://en.wikipedia.org/wiki/Highway_to_Hell</string>
+    <string name="Queen_song_URI">https://en.wikipedia.org/wiki/Bohemian_Rhapsody</string>
+    <string name="Eagles_song_URI">https://en.wikipedia.org/wiki/Hotel_California</string>
+
+
+    <string name="PinkFloyd_band_URI">https://en.wikipedia.org/wiki/Pink_Floyd</string>
+    <string name="LedZeppelin_band_URI">https://en.wikipedia.org/wiki/Led_Zeppelin</string>
+    <string name="GunsNRoses_band_URI" formatted="false">https://en.wikipedia.org/wiki/Guns_N%27_Roses</string>
+    <string name="Metallica_band_URI">https://en.wikipedia.org/wiki/Metallica</string>
+    <string name="ColdPlay_band_URI">https://en.wikipedia.org/wiki/Coldplay</string>
+    <string name="Nirvana_band_URI">https://en.wikipedia.org/wiki/Nirvana_(band)</string>
+    <string name="Adele_artist_URI">https://en.wikipedia.org/wiki/Adele</string>
+    <string name="ACDC_band_URI">https://en.wikipedia.org/wiki/AC/DC</string>
+    <string name="Queen_band_URI" formatted="false">https://en.wikipedia.org/wiki/Queen_%28band%29</string>
+    <string name="Eagles_band_URI" formatted="false">https://en.wikipedia.org/wiki/Eagles_%28band%29</string>
+
+
+    <string name="playVideo">Play Video</string>
+    <string name="songInfo">Song Information</string>
+    <string name="artistInfo">Artist Information</string>
+
+</resources>
