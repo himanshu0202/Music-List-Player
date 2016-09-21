@@ -1,0 +1,1 @@
+Developed a music video list android application synced with Youtube.Pressing a list item opens up the video corresponding to that list item in Youtube.Long pressing a list item opens up a menu with options for user to visit the Youtube video page, wikipedia page of the artist or of the song 
